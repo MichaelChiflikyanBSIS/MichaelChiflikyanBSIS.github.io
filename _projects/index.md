@@ -58,9 +58,9 @@ This chart allows you to see the "evolutionary" timeline of our global energy gr
 ![Average Capacity by Fuel Type]({{ "/assets/img/fuel_capacity.png" | relative_url }})
 *Figure 1: This chart compares the average generating capacity across different energy sectors. While renewable plants are now more numerous, traditional thermal and nuclear plants lead in raw power output per facility. Source: Created by Michael Chiflikyan using WRI Data.*
 
-#### **2. Environmental Context: Global Emissions**
-![Global Emissions Trends]({{ "/assets/img/emissions_context.png" | relative_url }})
-*Figure 2: This contextual visualization shows global emission trends. Since the electricity and heat sector is a major contributor to global emissions, the shift toward the green and blue dots in our interactive chart is a vital tool for meeting climate goals. Source: Data adapted from global energy and emissions inventories.*
+#### **2. Environmental Context: Total Global Output**
+![Total Global Capacity]({{ "/assets/img/emissions_context.png" | relative_url }})
+*Figure 2: This chart shows the total power generation capacity currently installed worldwide for each fuel type. While our interactive map shows thousands of new green dots (Solar and Wind), this chart reveals that traditional fuels like Coal and Gas still account for the largest share of the world's total power output.*
 
 ---
 
