@@ -9,8 +9,7 @@ author: Michael Chiflikyan
 
 ### **Project Resources**
 * **Primary Dataset:** [WRI Global Power Plant Database (v1.3.0)](https://datasets.wri.org/dataset/globalpowerplantdatabase)
-* **Analysis Notebook:** [View the Full Python Analysis on GitHub](https://github.com/MichaelChiflikyanBSIS/MichaelChiflikyanBSIS.github.io/main/FinalProject3.ipynb)
-
+* **Analysis Notebook:** [View the Full Python Analysis on GitHub](https://github.com/MichaelChiflikyanBSIS/MichaelChiflikyanBSIS.github.io/blob/main/FinalProject3.ipynb)
 ---
 
 ### **The Invisible Network Powering Our Lives**
