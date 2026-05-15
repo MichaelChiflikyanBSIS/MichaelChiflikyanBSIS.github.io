@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Global Grid: Mapping Our Energy Future"
-author: Michael Chiflikyan
+permalink: /projects/final-project/
 ---
 
 # The Global Grid: Mapping Our Energy Future
