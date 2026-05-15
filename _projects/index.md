@@ -26,7 +26,7 @@ One of the most fascinating patterns in the dataset is how geography influences 
 By tracking geographic locations, fuel types, and generation capacity, we can see how different nations have prioritized energy security. Historically, coal and gas have dominated because they provided the high-capacity power needed for industrialization. However, the data now shows a rapid diversification toward solar, wind, and hydro power.
 
 ### **Industrial Growth and Fossil Fuel Dependence**
-For much of the twentieth century, industrial growth was directly tied to fossil fuel expansion. These plants were designed for reliability and scale, producing enormous amounts of electricity for urban populations. However, this expansion came with environmental consequences, including rising emissions and air pollution.
+For much of the twentieth century, industrial growth was directly tied to fossil fuel expansion. These plants were designed for reliability and scale, often producing enormous amounts of electricity for urban populations. However, this expansion came with environmental consequences, including rising emissions and air pollution.
 
 ### **Renewable Energy Is Expanding Rapidly**
 Although fossil fuels still represent a major share of generation, renewable technologies are expanding at an unprecedented pace. Declining costs have accelerated the deployment of green infrastructure. Unlike traditional thermal plants, renewable systems tend to be distributed across many smaller installations, leading to the high density of solar and wind facilities seen in recent decades.
@@ -55,11 +55,11 @@ This chart allows you to see the "evolutionary" timeline of our global energy gr
 ### **The Bigger Picture: Scaling and Impact**
 
 #### **1. Global Capacity by Fuel Type**
-![Average Capacity by Fuel Type]({{ "/assets/img/fuel_capacity.png" | relative_url }})
+![Average Capacity by Fuel Type]({{ "/assets/png/fuel_capacity.png" | relative_url }})
 *Figure 1: This chart compares the average generating capacity across different energy sectors. While renewable plants are now more numerous, traditional thermal and nuclear plants lead in raw power output per facility. Source: Created by Michael Chiflikyan using WRI Data.*
 
 #### **2. Environmental Context: Total Global Output**
-![Total Global Capacity]({{ "/assets/img/emissions_context.png" | relative_url }})
+![Total Global Capacity]({{ "/assets/png/emissions_context.png" | relative_url }})
 *Figure 2: This chart shows the total power generation capacity currently installed worldwide for each fuel type. While our interactive map shows thousands of new green dots (Solar and Wind), this chart reveals that traditional fuels like Coal and Gas still account for the largest share of the world's total power output.*
 
 ---
