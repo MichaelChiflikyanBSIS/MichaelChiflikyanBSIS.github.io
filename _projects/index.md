@@ -10,6 +10,7 @@ permalink: /projects/final-project/
 ### **Project Resources**
 * **Primary Dataset:** [WRI Global Power Plant Database (v1.3.0)](https://datasets.wri.org/dataset/globalpowerplantdatabase)
 * **Analysis Notebook:** [View the Full Python Analysis on GitHub](https://github.com/MichaelChiflikyanBSIS/MichaelChiflikyanBSIS.github.io/blob/main/FinalProject3.ipynb)
+
 ---
 
 ### **The Invisible Network Powering Our Lives**
@@ -51,15 +52,15 @@ This chart allows you to see the "evolutionary" timeline of our global energy gr
 
 ---
 
-### **The Bigger Picture: Scaling and Impact**
+### **The Bigger Picture: External Context and Scaling**
 
-#### **1. Global Capacity by Fuel Type**
-![Average Capacity by Fuel Type]({{ "/assets/pngs/fuel_capacity.png" | relative_url }})
-*Figure 1: This chart compares the average generating capacity across different energy sectors. While renewable plants are now more numerous, traditional thermal and nuclear plants lead in raw power output per facility. Source: Created by Michael Chiflikyan using WRI Data.*
+#### **1. Global Context: Greenhouse Gas Emissions by Sector**
+![Global Emissions by Sector]({{ "/assets/pngs/fuel_capacity.png" | relative_url }})
+*Figure 1: To contextualize why the power plant distribution shifts shown in our primary WRI dataset matter, this external data reveals that electricity and heat production remain the single largest economic sector contributing to global greenhouse gas emissions. Source: Our World in Data / Climate Watch (2024).*
 
-#### **2. Environmental Context: Total Global Output**
-![Total Global Capacity]({{ "/assets/pngs/emissions_context.png" | relative_url }})
-*Figure 2: This chart shows the total power generation capacity currently installed worldwide for each fuel type. While our interactive map shows thousands of new green dots (Solar and Wind), this chart reveals that traditional fuels like Coal and Gas still account for the largest share of the world's total power output.*
+#### **2. Economic Drivers: Levelized Cost of Energy (LCOE) Trends**
+![Renewable Energy Cost Deflation]({{ "/assets/pngs/emissions_context.png" | relative_url }})
+*Figure 2: This external contextual visualization illustrates the economic drivers behind the surge of green dots on our interactive timeline. Over the last 15 years, the cost of utility-scale solar energy has dropped by 88%, completely outcompeting traditional fossil fuels. Source: Lazard / Our World in Data.*
 
 ---
 
@@ -69,4 +70,6 @@ The analysis was performed using Python, utilizing the Pandas library for data c
 ---
 
 ### **Citations and Data Sources**
-* **Primary Data:** Global Power Plant Database. 2021. Washington, DC: World Resources Institute. [https://datasets.wri.org/dataset/globalpowerplantdatabase](https://datasets.wri.org/dataset/globalpowerplantdatabase)
+* **Primary Dataset:** Global Power Plant Database. 2021. Washington, DC: World Resources Institute. [https://datasets.wri.org/dataset/globalpowerplantdatabase](https://datasets.wri.org/dataset/globalpowerplantdatabase)
+* **Contextual Dataset 1 (Emissions):** Our World in Data. 2024. Greenhouse Gas Emissions Sectoral Breakdown. [https://ourworldindata.org/emissions-by-sector](https://ourworldindata.org/emissions-by-sector)
+* **Contextual Dataset 2 (Economics):** Lazard / Our World in Data. 2024. Levelized Cost of Energy (LCOE) Deflation Analysis. [https://ourworldindata.org/cheap-renewables-growth](https://ourworldindata.org/cheap-renewables-growth)
