@@ -70,6 +70,9 @@ The analysis was performed using Python, utilizing the Pandas library for data c
 ---
 
 ### **Citations and Data Sources**
+
 * **Primary Dataset:** Global Power Plant Database. 2021. Washington, DC: World Resources Institute. [https://datasets.wri.org/dataset/globalpowerplantdatabase](https://datasets.wri.org/dataset/globalpowerplantdatabase)
+
 * **Contextual Dataset 1 (Emissions):** Our World in Data. 2024. Greenhouse Gas Emissions Sectoral Breakdown. [https://ourworldindata.org/emissions-by-sector](https://ourworldindata.org/emissions-by-sector)
+
 * **Contextual Dataset 2 (Economics):** Lazard / Our World in Data. 2024. Levelized Cost of Energy (LCOE) Deflation Analysis. [https://ourworldindata.org/cheap-renewables-growth](https://ourworldindata.org/cheap-renewables-growth)
